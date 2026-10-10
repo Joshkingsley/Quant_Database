@@ -8,7 +8,7 @@ SYMBOL, TF = "BTCUSD", mt5.TIMEFRAME_M1
 SWING_N, BARS = 6, 3600
 RISK_PCT, RR, SL_BUFFER, MAX_WAIT_BARS = 0.02, 3.0, 0.0005, 20
 MAGIC, ALLOW_LIVE, HEARTBEAT_SEC = 90210, False, 30
-TG_TOKEN, TG_CHAT = os.getenv("TELEGRAM_BOT_TOKEN", "8784163392:AAHmE8Yip6siidvOgL7LrY0Xxfx_nRIrgfY"), os.getenv("TELEGRAM_CHAT_ID", "6710781058")
+TG_TOKEN, TG_CHAT = os.getenv("TELEGRAM_BOT_TOKEN", ""), os.getenv("TELEGRAM_CHAT_ID", "")
 
 DIGITS = 2
 pending = None      # {"ticket", "dir", "top", "bottom", "bars", "filled"}
