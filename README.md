@@ -10,6 +10,40 @@ Welcome to the 3,000 Quant Project. This repository is an ongoing, open-source i
 
 Our objective is simple: **We do not trust theories; we trust distributions.** Every model hosted here undergoes rigorous distribution analysis to strip away market noise and assess whether a proposed theory possesses a genuine, statistically sane edge. We host these models interactively online so researchers, quants, and engineers can view, test, and challenge the math.
 
+## Cross-platform setup
+
+The repository contains source code, notebooks, and research data only. Create a
+virtual environment locally; do not commit it. The commands below work on Linux,
+macOS, and Windows (with the platform-specific activation command).
+
+```bash
+python -m venv .venv
+```
+
+Activate it with one of the following commands:
+
+```bash
+# Linux/macOS
+source .venv/bin/activate
+
+# Windows PowerShell
+.venv\\Scripts\\Activate.ps1
+
+# Windows Command Prompt
+.venv\\Scripts\\activate.bat
+```
+
+Then install the shared dependencies:
+
+```bash
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
+
+Git normalizes source-file line endings to LF, while Windows command scripts use
+CRLF on checkout. This keeps the same clone usable on Linux and Windows without
+changing the individual research projects.
+
 ## 🧠 Our Core Philosophy: The Confluence Fallacy
 
 A foundational tenet of this repository is a mathematical stance against the traditional concept of "confluence."

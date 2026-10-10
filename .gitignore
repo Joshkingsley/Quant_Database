@@ -1,0 +1,43 @@
+# Per-machine Python environments
+/.venv/
+/venv/
+/env/
+/Lib/
+/Include/
+/Scripts/
+/bin/
+/pyvenv.cfg
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebook/editor state
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Windows virtual-environment launchers mistakenly created at repository root
+/activate
+/activate.bat
+/Activate.ps1
+/deactivate.bat
+/python.exe
+/pythonw.exe
+/pip.exe
+/pip3.exe
+/pip3.*.exe
+/cygdb.exe
+/cython.exe
+/cythonize.exe
+/f2py.exe
+/normalizer.exe
+/numpy-config.exe
+/pygmentize.exe
+/pwiz.exe
+/sample.exe
+/websockets.exe
+/curl-cffi.exe
+/idna.exe
+/markdown-it.exe

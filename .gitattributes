@@ -1,0 +1,16 @@
+# Use one line-ending convention for source files on every platform.
+* text=auto eol=lf
+
+# Windows command scripts need CRLF when checked out on Windows.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Keep generated/binary artifacts out of Git's text conversion.
+*.exe binary
+*.pyc binary
+*.pyo binary
+*.pyd binary
+*.so binary
+*.dll binary
+*.zip binary
