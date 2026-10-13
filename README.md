@@ -1,6 +1,6 @@
 **Repository Description**
 
-An open-source quantitative research ecosystem dedicated to building, testing, and validating 3,000 computational models. We bridge academic theory and applied statistical execution through rigorous distribution analysis, explicitly challenging the "confluence fallacy" in classical system design. To ensure accessibility for different research pipelines, all strategy blueprints and statistical validations are provided in both Python (via Jupyter Notebooks) and R, allowing you to choose the environment that best fits your workflow.
+An open-source quantitative research ecosystem dedicated to building, testing, and validating 100 computational models. We bridge academic theory and applied statistical execution through rigorous distribution analysis, explicitly challenging the "confluence fallacy" in classical system design. To ensure accessibility for different research pipelines, all strategy blueprints and statistical validations are provided in both Python (via Jupyter Notebooks) and R, allowing you to choose the environment that best fits your workflow.
 
 ---
 
