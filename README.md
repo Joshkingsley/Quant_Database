@@ -4,9 +4,9 @@ An open-source quantitative research ecosystem dedicated to building, testing, a
 
 ---
 
-# The 3,000 Quant Project: Empirical Validation & Distribution Analysis
+# The 100 Quant Project: Empirical Validation & Distribution Analysis
 
-Welcome to the 3,000 Quant Project. This repository is an ongoing, open-source initiative dedicated to translating 3,000 theories, academic papers, and market hypotheses into strictly validated computational models.
+Welcome to the 100 Quant Project. This repository is an ongoing, open-source initiative dedicated to translating 3,000 theories, academic papers, and market hypotheses into strictly validated computational models.
 
 Our objective is simple: **We do not trust theories; we trust distributions.** Every model hosted here undergoes rigorous distribution analysis to strip away market noise and assess whether a proposed theory possesses a genuine, statistically sane edge. We host these models interactively online so researchers, quants, and engineers can view, test, and challenge the math.
 
