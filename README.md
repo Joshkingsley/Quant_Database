@@ -96,7 +96,7 @@ quant_database/
 
 While this repository originates in quantitative finance, market microstructure, and algorithmic trading, the statistical frameworks developed here (GARCH variance modeling, Markov Decision Processes, gradient boosting) are universally applicable.
 
-As the project scales toward script 3,000, our research and modeling sections will actively expand into:
+As the project scales toward script 100, our research and modeling sections will actively expand into:
 
 * **Epidemiologic Health:** Modeling viral spread, containment distributions, and healthcare capacity forecasting.
 * **Computing & Automation:** IoT network state predictions and hardware sensor data cleaning.
